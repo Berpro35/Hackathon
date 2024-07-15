@@ -1,3 +1,3 @@
 # Hackathon
-##Projemin fikri
+## Projemin fikri
 > Meyvelerin besin değerleri hakkında bilgi veren dc botu
