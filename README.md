@@ -1,4 +1,6 @@
 # -Hackathon-
+## Projemin Türü:
+> Teachable Machine destekli DC botu
 ## Projemin fikri:
 > Meyvelerin besin değerleri hakkında bilgi veren dc botu
 ## Kaynaklar:
